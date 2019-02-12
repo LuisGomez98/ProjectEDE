@@ -11,9 +11,9 @@ import java.io.InputStreamReader;
 import java.io.RandomAccessFile;
 
 import javax.swing.*;
-
+//xfgdfg
 public class VentanaDepart extends JFrame implements ActionListener {
-
+//asdasda
 	private static final String NOEXISTEDEPART = "DEPARTAMENTO NO EXISTE.";
 	private static final long serialVersionUID = 1L;
 	JTextField num = new JTextField(10);
