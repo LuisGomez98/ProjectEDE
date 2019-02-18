@@ -1,7 +1,6 @@
 package ficheroAleatorioVentana;
 
 import java.awt.*;
-//njjign m7yuio
 import java.awt.event.*;
 import java.io.BufferedReader;
 import java.io.File;
@@ -10,6 +9,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.RandomAccessFile;
 
+//njjign m7yuio
 import javax.swing.*;
 //xfgdfg
 public class VentanaDepart extends JFrame implements ActionListener {
